@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.form-group input{
+	width: 100%;
+}
+.form-group button {
+ background-color: blue;
+	color: white;
+	padding : 10px 15px;
+}
+.table{
+	width:100%;
+	margin-top: 10px;
+	border-collapse: collapse
+}
+.table,th,td{
+	border: 1px solid #ddd;
+	text-align: left;
+}
+
